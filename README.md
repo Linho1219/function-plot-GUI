@@ -1,6 +1,7 @@
 # Function-Plot-GUI
 
 [中文文档](./README_zh-CN.md) · [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Linho1219/function-plot-GUI)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLinho1219%2Ffunction-plot-GUI.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLinho1219%2Ffunction-plot-GUI?ref=badge_shield)
 
 Live Demo: <https://plot.linho.cc/>
 
@@ -56,3 +57,7 @@ https://plot.linho.cc/#code=eyJkYXRhIjpbeyJmbiI6InheMi0xIn1dfQ
 > ```
 
 This will open the web editor with the configuration preloaded, allowing you to modify the settings and preview the graph.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLinho1219%2Ffunction-plot-GUI.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLinho1219%2Ffunction-plot-GUI?ref=badge_large)
