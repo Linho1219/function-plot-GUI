@@ -1,6 +1,8 @@
 # Function-Plot-GUI
 
-[English README](./README.md) · [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Linho1219/function-plot-GUI)
+[![Deploy site to Pages](https://github.com/Linho1219/function-plot-GUI/actions/workflows/deploy.yml/badge.svg)](https://github.com/Linho1219/function-plot-GUI/actions/workflows/deploy.yml) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Linho1219/function-plot-GUI)
+
+[English README](./README.md)
 
 实例：<https://plot.linho.cc/>
 
