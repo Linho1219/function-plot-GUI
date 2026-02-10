@@ -37,7 +37,7 @@ export default defineConfig({
             "prettier/plugins/babel",
             "prettier/plugins/estree",
           ],
-          vender: ["vue", "pinia", "vue-i18n", "vue-draggable-plus"],
+          vendor: ["vue", "pinia", "vue-i18n", "vue-draggable-plus"],
         },
       },
     },
