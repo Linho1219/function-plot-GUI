@@ -20,6 +20,7 @@
     "prettier": "^3.8.1",
     "sober": "1.1.9",
     "utf8": "^3.0.0",
+    "vite-plugin-node-polyfills": "^0.25.0",
     "vue": "^3.5.28",
     "vue-color-kit": "^1.0.6",
     "vue-draggable-plus": "^0.6.1",
@@ -43,6 +44,9 @@
     "patchedDependencies": {
       "function-plot": "patches/function-plot.patch",
       "sober": "patches/sober.patch"
-    }
+    },
+    "ignoredBuiltDependencies": [
+      "@parcel/watcher"
+    ]
   }
 }
