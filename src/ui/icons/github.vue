@@ -1,5 +1,5 @@
 <template>
-  <s-icon :class="$props.class">
+  <s-icon>
     <svg data-v-afeea289="" viewBox="0 0 1024 1024">
       <path
         data-v-afeea289=""
